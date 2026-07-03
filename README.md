@@ -47,6 +47,7 @@ Download the required YOLOP files and model weights from:
 Extract them into:
 
 YOLOP/
+
 weights/
 
 ## Running the Simulator

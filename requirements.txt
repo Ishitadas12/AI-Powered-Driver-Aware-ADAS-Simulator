@@ -1,0 +1,10 @@
+carla==0.9.16
+opencv-python
+numpy
+mediapipe
+pygame
+ultralytics
+onnxruntime
+torch
+torchvision
+Pillow

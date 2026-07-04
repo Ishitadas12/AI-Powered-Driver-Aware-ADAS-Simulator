@@ -57,7 +57,11 @@ weights/
 3. Run the project:
 
 ```bash
-python camera.py
+python camera.py 
+```
+OR
+```bash
+py -3.10 camera.py 
 ```
 ## Author
 **Ishita Das**

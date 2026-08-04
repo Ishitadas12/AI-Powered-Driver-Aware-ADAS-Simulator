@@ -67,8 +67,7 @@ py -3.10 camera.py
 
 ## Main ADAS Dashboard
 
-![Front Camera-Main ADAS Dashboard](<img width="959" height="566" alt="Front Camera (Main ADAS Dashboard)" src="https://github.com/user-attachments/assets/e0519dac-a91a-4d22-8a1b-2e702362a0b1" />
-)
+![Front Camera-Main ADAS Dashboard](SCREENSHOTS/Front Camera (Main ADAS Dashboard.png)
 
 ---
 

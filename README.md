@@ -71,23 +71,23 @@ py -3.10 camera.py
 
 ### Lane Departure Warning System
 
-![Lane Departure Warning System](SCREENSHOTS/Lane%20Departure%20Warning%20System.png)
+![Lane Departure Warning System](SCREENSHOTS/Lane_Departure_Warning_System.png)
 
 ### Lane Keeping Assist (LKA)
 
-![Lane Keeping Assist (LKA)](SCREENSHOTS/Lane%20Keeping%20Assist%20(LKA).png)
+![Lane Keeping Assist (LKA)](SCREENSHOTS/Lane_Keeping_Assist_(LKA).png)
 
 ### Left Camera Monitoring
 
-![Left Camera Monitoring](SCREENSHOTS/Left%20Camera%20Monitoring.png)
+![Left Camera Monitoring](SCREENSHOTS/Left_Camera_Monitoring.png)
 
 ### Rear Camera Monitoring
 
-![Rear Camera Monitoring](SCREENSHOTS/Rear%20Camera%20Monitoring.png)
+![Rear Camera Monitoring](SCREENSHOTS/Rear_Camera_Monitoring.png)
 
 ### Right Camera Monitoring (Right Blind Spot Detection)
 
-![Right Camera Monitoring](SCREENSHOTS/Right%20Camera%20Monitoring%20(Right%20Blind%20Spot%20Detection).png)
+![Right Camera Monitoring](SCREENSHOTS/Right_Camera_Monitoring_(Right_Blind_Spot_Detection).png)
 
 
 ## Author
